@@ -1,0 +1,11 @@
+
+"""04 - Escreva um programa para pedir um número e um nome. Exiba o nome  (Uma letra de cada vez) e 
+repita isso para o número de vezes que ele digitou."""
+num = int(input("Insira um número:"))
+nome = input("Insira um nome:")
+
+for i in range (num):
+    print("----------")
+    for i  in range(len(nome)):
+        print(nome[i])
+    
