@@ -6,3 +6,9 @@ num = int(input("Insira um número qualquer:"))
 
 for i in range(num):
     print(nome)
+
+
+
+print("----------------------------------------------------")
+print("Programa finalizado!")
+print("Caio Vinicius Aires da Silva")

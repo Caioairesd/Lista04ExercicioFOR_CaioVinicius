@@ -2,6 +2,10 @@
 de mostrar o número que ele inseriu que eles inseriram na saída"""
 
 num = int(input("Insira um número abaixo de 50:"))
-i= 51
-for num in range (i) :
-    print(num)
+for i in range(50,num-1 ,-1):
+        print(i)
+
+
+print("----------------------------------------------------")
+print("Programa finalizado!")
+print("Caio Vinicius Aires da Silva")

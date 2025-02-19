@@ -6,3 +6,8 @@ num = int(input("Insira o valor que deseja saber a tabuada:"))
 for i in range(11):
     multiplicacao = num * i
     print("{} X {} = {}".format(num,i,multiplicacao))
+
+
+print("----------------------------------------------------")
+print("Programa finalizado!")
+print("Caio Vinicius Aires da Silva")
