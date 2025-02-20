@@ -10,6 +10,7 @@ for i in range(5):
     
     if resposta == 's':
         total += num
+        print("Valor adicionado!")
     
     elif resposta == 'n':
         print("Valor não adicionado!")
@@ -20,3 +21,7 @@ for i in range(5):
         
 print("O total é de: {}".format(total))
     
+    
+print("----------------------------------------------------")
+print("Programa finalizado!")
+print("Caio Vinicius Aires da Silva")
